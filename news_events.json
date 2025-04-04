@@ -1,0 +1,12 @@
+[
+  {
+    "currency": "USD",
+    "description": "USD CPI higher than forecast",
+    "datetime": "2025.04.05 15:30"
+  },
+  {
+    "currency": "USD",
+    "description": "USD NFP lower than expected",
+    "datetime": "2025.04.05 17:00"
+  }
+]
